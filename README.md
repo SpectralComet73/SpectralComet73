@@ -1,8 +1,8 @@
 ## Bienvenido al perfil de ...
 
-![Banner](path/to/image.png)
+![Banner](Banner.png)
 
-![Imagen de Mi](https://drive.google.com/drive/u/0/search?q=Yo)
+![Imagen de Mi](Yo.jpg)
 
 ## Acerca de mí
 - Actual estudiante de Ingenieria en Ciberseguridad en la universidad Amerike
